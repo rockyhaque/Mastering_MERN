@@ -11,19 +11,6 @@ This repository contains my learning journey in Javascript. The content includes
 
 ## Table of Contents
 
-- [Introduction](#introduction)# mastering_MERN
-
-![GitHub repo size](https://img.shields.io/github/repo-size/rockyhaque/mastering_MERN)
-![GitHub stars](https://img.shields.io/github/stars/rockyhaque/mastering_MERN?style=social)
-![GitHub forks](https://img.shields.io/github/forks/rockyhaque/mastering_MERN?style=social)
-[![Follow me on Twitter](https://img.shields.io/twitter/follow/rocky_haque10?style=social)](https://twitter.com/rocky_haque10)
-[![Follow me on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rockyhaque/)](https://www.linkedin.com/in/rockyhaque/)
-
-
-This repository contains my learning journey in Javascript. The content includes various problem-solving exercises and unique projects.
-
-## Table of Contents
-
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
